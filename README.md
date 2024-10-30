@@ -1,2 +1,2 @@
-# blender-projects
-3D Blender Projects
+# Blender Projects
+A collection of my 3D Blender projects
